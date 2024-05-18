@@ -1,7 +1,7 @@
 <div align="center">
 <center>
   <h1>
-    Fana Road To Petani -10 May 2024
+    Fana Road To Petani 10 May 2024
   </h1>
 </center>
   <a href="https://git.io/streak-stats">
