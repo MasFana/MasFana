@@ -4,7 +4,7 @@
     Fana Road To Petani
   </h1>
 </center>
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MasFana&theme=dark&background=0d1117" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">  
+    <img src="[https://streak-stats.demolab.com/?user=MasFana&theme=dark&background=0d1117]" alt="GitHub Streak"/>
 </a>
 </div>
