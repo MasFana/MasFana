@@ -17,7 +17,6 @@ I'm a passionate developer who loves to:
 ## 🌱 What I’m Learning  
 I’m on an exciting journey to grow both technically and personally. Currently, I’m focused on:  
 - 🌐 **Web Development**: Mastering modern frameworks and best practices.  
-- 🦀 **Rust**: Embracing low-level programming for performance and safety.  
 - 🎤 **Public Speaking**: Sharpening my communication skills for impactful storytelling.  
 
 ---
