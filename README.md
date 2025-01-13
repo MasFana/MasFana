@@ -29,7 +29,6 @@ I’d love to connect and share ideas. Reach out to me here:
 
 ---
 
-## 🌟 Parting Words  
 > “The only true wisdom is in knowing you know nothing.” – Socrates  
 
 Thanks for stopping by! Feel free to drop a message or collaborate on something awesome. 😊  
