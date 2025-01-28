@@ -68,7 +68,6 @@ A React Native app for controlling an ESP8266-powered car via Wi-Fi. Features in
 
 </details>
 
----
 
 > “The only true wisdom is in knowing you know nothing.” – Socrates  
 
