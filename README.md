@@ -64,7 +64,15 @@ Provides real-time and forecast weather data for various locations. It includes 
 → [Explore the API](https://cuaca-masfana.vercel.app/cuaca?lokasi=Jakarta)
 
 - 🚗 [NativeRobotCar](https://github.com/MasFana/NativeRobotCar)  
-A React Native app for controlling an ESP8266-powered car via Wi-Fi. Features include real-time movement control (forward, backward, left, right), customizable button layouts, and seamless Wi-Fi connectivity for direct communication with the car.  
+A React Native app for controlling an ESP8266-powered car via Wi-Fi. Features include real-time movement control (forward, backward, left, right), customizable button layouts, and seamless Wi-Fi connectivity for direct communication with the car.
+
+- 🌿 [BaccoSense](https://github.com/MasFana/BaccoSense)  
+A tobacco monitoring system that tracks moisture, temperature, and humidity. It provides real-time data visualization and alerts to help maintain optimal storage conditions for tobacco. Built with IoT sensors and a user-friendly dashboard.  
+→ [View project](https://github.com/MasFana/BaccoSense)
+
+- 🌱 [Pupukin](https://github.com/MasFana/Pupukin_akhir)  
+A fertilizer subsidy that helps farmers seller and admin track the fertilizer distribution. It limit the total fertilizer of each farmer based on Land Size.  
+→ [View project](https://github.com/MasFana/Pupukin_akhir)
 
 </details>
 
