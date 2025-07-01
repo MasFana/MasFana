@@ -44,7 +44,7 @@ A lightweight blog built with **SvelteKit**, using **Marked** and **Highlight.js
 A proof-of-concept API that uses a GitHub repository as an image hosting service. It allows users to upload, list, and delete image files, providing a simple way to manage image hosting via GitHub. Features include easy integration with GitHub using Personal Access Tokens, file management endpoints (upload, retrieve, delete), and seamless public URL generation for hosted images.
 
 - 🌿 [BaccoSense](https://github.com/MasFana/BaccoSense)  
-A tobacco monitoring system that tracks moisture, temperature, and humidity. It provides real-time data visualization and alerts to help maintain optimal storage conditions for tobacco. Built with IoT sensors and a user-friendly dashboard.  
+A tobacco POS and sales forecasting, monitoring system that tracks moisture, temperature, and humidity. It provides real-time data visualization and alerts to help maintain optimal storage conditions for tobacco. Built with IoT sensors and a user-friendly dashboard.  
 → [View project](https://github.com/MasFana/BaccoSense)
 
 - ⏱️ [Rundown App](https://rundown.fana.my.id)  
