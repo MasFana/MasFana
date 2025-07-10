@@ -23,11 +23,11 @@ I’m on an exciting journey to grow both technically and personally. Currently,
 
 ## 📫 Let’s Connect  
 I’d love to connect and share ideas. Reach out to me here:  
-- 🐦 [**Twitter / X**]("https://x.com/masfana_")
+
+- 🐦 [**Twitter/X**](https://x.com/masfana_)  
 - 🌐 [**GitHub**](https://github.com/MasFana)  
 - 💼 [**LinkedIn**](https://linkedin.com/in/adrianfathan)  
-- 📧 **Email**: [fathanadrian99@gmail.com](mailto:fathanadrian99@gmail.com)  
-
+- 📧 **Email**: [fathanadrian99@gmail.com](mailto:fathanadrian99@gmail.com)
 ---
 
 ## 🧪 Side Projects
